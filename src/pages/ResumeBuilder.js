@@ -473,7 +473,7 @@ const ResumeBuilder = () => {
             page++;
           }
           
-          pdf.save('resume.pdf');
+          pdf.save(`resume_${Date.now()}.pdf`);
           
           // Clean up
           document.body.removeChild(tempContainer);
