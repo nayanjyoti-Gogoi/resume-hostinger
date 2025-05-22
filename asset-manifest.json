@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/resume-hostinger/static/css/main.c99f68f5.css",
+    "main.js": "/resume-hostinger/static/js/main.fe12ba5b.js",
+    "static/js/977.5df3bff1.chunk.js": "/resume-hostinger/static/js/977.5df3bff1.chunk.js",
+    "static/js/732.f1475904.chunk.js": "/resume-hostinger/static/js/732.f1475904.chunk.js",
+    "static/media/creative-template.jpg": "/resume-hostinger/static/media/creative-template.619d02060d8c21f6c3b3.jpg",
+    "static/media/bold-template.jpg": "/resume-hostinger/static/media/bold-template.c0e722ed52492a1565f1.jpg",
+    "static/media/elegant-template.jpg": "/resume-hostinger/static/media/elegant-template.e6f91ad5b5be8e84a652.jpg",
+    "static/media/corporate-template.jpg": "/resume-hostinger/static/media/corporate-template.0ea359b425eba4b8d452.jpg",
+    "static/media/modern-template.jpg": "/resume-hostinger/static/media/modern-template.7e7697858e82ef561423.jpg",
+    "static/media/professional-template.jpg": "/resume-hostinger/static/media/professional-template.2c827785e9d11f437060.jpg",
+    "static/media/split-template.jpg": "/resume-hostinger/static/media/split-template.4f2195f80d7fa70d03bc.jpg",
+    "static/media/developer-template.jpg": "/resume-hostinger/static/media/developer-template.a72a2f8f32d15ca727d2.jpg",
+    "static/media/designer-template.jpg": "/resume-hostinger/static/media/designer-template.941c885ec8c328e0ef01.jpg",
+    "static/media/minimal-template.jpg": "/resume-hostinger/static/media/minimal-template.f96b2627373978df7b88.jpg",
+    "static/media/dark-mode-template.jpg": "/resume-hostinger/static/media/dark-mode-template.82932cb78aea3c480b1a.jpg",
+    "static/media/executive-template.jpg": "/resume-hostinger/static/media/executive-template.45de7824a18693bcf233.jpg",
+    "static/media/mba-template.jpg": "/resume-hostinger/static/media/mba-template.4ac977cabaa0eff28b38.jpg",
+    "static/media/tech-template.jpg": "/resume-hostinger/static/media/tech-template.c1affd957b6749925dc5.jpg",
+    "static/media/gradient-template.jpg": "/resume-hostinger/static/media/gradient-template.9c9de737f98a3e8efd17.jpg",
+    "static/media/modern-plus-template.jpg": "/resume-hostinger/static/media/modern-plus-template.79e9f1d198ab92a7a93a.jpg",
+    "static/media/fresher-template.jpg": "/resume-hostinger/static/media/fresher-template.cdf76d6566e5047f34b6.jpg",
+    "index.html": "/resume-hostinger/index.html",
+    "main.c99f68f5.css.map": "/resume-hostinger/static/css/main.c99f68f5.css.map",
+    "main.fe12ba5b.js.map": "/resume-hostinger/static/js/main.fe12ba5b.js.map",
+    "977.5df3bff1.chunk.js.map": "/resume-hostinger/static/js/977.5df3bff1.chunk.js.map",
+    "732.f1475904.chunk.js.map": "/resume-hostinger/static/js/732.f1475904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99f68f5.css",
+    "static/js/main.fe12ba5b.js"
+  ]
+}
